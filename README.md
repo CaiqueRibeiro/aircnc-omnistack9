@@ -11,14 +11,14 @@ A React, React Native and NodeJS application developed during Semana Omnistack 9
 
 ## Interface Mobile
 
-![Mobile Login](screenshots/mobile-login.jpeg)
-
-![Mobile List](screenshots/mobile-list.jpeg)
-
-![Mobile Login](screenshots/mobile-pick.jpeg)
-
-![Mobile Login](screenshots/mobile-message.jpeg)
-
+<div style="display: flex">
+<img src="screenshots/mobile-login.jpeg" style="height: 400px; margin: 1%"/>
+<img src="screenshots/mobile-list.jpeg" style="height: 400px; margin: 1%"/>
+</div>
+<div style="display: flex">
+<img src="screenshots/mobile-pick.jpeg" style="height: 400px; margin: 1%"/>
+<img src="screenshots/mobile-message.jpeg" style="height: 400px; margin: 1%"/>
+</div>
 
 
 ## Running in Development
