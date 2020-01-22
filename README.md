@@ -8,8 +8,18 @@ A React, React Native and NodeJS application developed during Semana Omnistack 9
 ![Interface Web](screenshots/web-new-spot.png)
 
 
+
 ## Interface Mobile
-![]()
+
+![Mobile Login](screenshots/mobile-login.jpeg)
+
+![Mobile List](screenshots/mobile-list.jpeg)
+
+![Mobile Login](screenshots/mobile-pick.jpeg)
+
+![Mobile Login](screenshots/mobile-message.jpeg)
+
+
 
 ## Running in Development
 
@@ -47,3 +57,13 @@ yarn start
 ```
 
 The app will be available in http://localhost:3000
+
+
+### React Native
+
+In this projects [Expo](https://expo.io/) was used. So install and configure Expo, then in directory 'mobile' run:
+
+```
+# runs the mobile app in your smartphone:
+  yarn start
+```
